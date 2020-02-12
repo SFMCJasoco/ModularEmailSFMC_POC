@@ -7,8 +7,9 @@ The template elements within this were created in Milliner.App & I've included t
 ---
 
 The process is made up of a few parts:
-        1. Define your template elements
-        2. Define your AMPScript Variables
+      
+	    1. Define your template elements
+	    2. Define your AMPScript Variables
         3. An Excel Document or Google Sheet to pull it all together
         4. Pasting the Excel output into a template
         
